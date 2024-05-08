@@ -1,6 +1,17 @@
 import pandas as pd
 import openai
 
+# Function to load the API key from a file
+def load_api_key():
+    with open('api-key.txt', 'r') as file:
+        return file.readline().strip()
+
+# Load the API key from the secure file
+api_key = load_api_key()
+
+# Set the API key for the OpenAI service
+openai.api_key = api_key
+
 def load_text(file_path):
     """Load text data from a file."""
     with open(file_path, 'r') as file:
@@ -8,7 +19,6 @@ def load_text(file_path):
 
 def categorize_keywords(file_path):
     df = pd.read_csv(file_path)
-    openai.api_key = "sk-proj-XXfuVD0krWVcxJBNorltT3BlbkFJXGrYbcxhcjldnmAo79hp"
     keywords = list(set(df['Unique_Keywords'].dropna().tolist()))
     chunks = []
     current_chunk = []
@@ -40,7 +50,7 @@ def categorize_keywords(file_path):
 
     return all_categories
 
-def refine_categories(text, api_key):
+def refine_categories(text):
     """Use OpenAI API to refine text into 10 distinct categories."""
     prompt = f"Based on the provided text of AI use case categories, please consolidate these into 10 distinct and broad categories, with up to 5 sub-categories which provide context to the use: {text}"
     response = openai.chat.completions.create(
@@ -59,10 +69,6 @@ def main():
     input_file_1 = 'unique_ai_keywords.csv'
     intermediate_output = 'ai_use_case_categories.txt'
     final_output = 'refined_ai_categories.txt'
-    api_key = "sk-proj-XXfuVD0krWVcxJBNorltT3BlbkFJXGrYbcxhcjldnmAo79hp"
-
-    # Set the OpenAI API key
-    openai.api_key = api_key
 
     # Process initial keywords into categories
     categories = categorize_keywords(input_file_1)
@@ -70,7 +76,7 @@ def main():
 
     # Load and refine the categories
     categories_text = load_text(intermediate_output)
-    refined_categories = refine_categories(categories_text, api_key)
+    refined_categories = refine_categories(categories_text)
     save_categories(refined_categories, final_output)
 
 if __name__ == "__main__":
