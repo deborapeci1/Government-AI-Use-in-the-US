@@ -1,10 +1,13 @@
 import pdfplumber
 import openai
 
-openai.api_key = "sk-proj-XXfuVD0krWVcxJBNorltT3BlbkFJXGrYbcxhcjldnmAo79hp"
+# Function to load the API key from a file
+def load_api_key():
+    with open('api-key.txt', 'r') as file:
+        return file.readline().strip()
 
-# Load your API key from an environment variable or secure storage
-api_key = "sk-proj-XXfuVD0krWVcxJBNorltT3BlbkFJXGrYbcxhcjldnmAo79hp"
+# Load your API key securely
+api_key = load_api_key()
 
 # Set up the client with your API key
 openai.api_key = api_key
