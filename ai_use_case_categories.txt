@@ -1,0 +1,666 @@
+Based on the provided list of AI use case keywords, here are the categories based on their primary focus and application:
+
+1. **AI Application in Infrastructure Maintenance and Prediction**:
+- Pipeline integrity management
+- Pipeline condition prediction
+- Oil and gas industry
+- Forecasting model
+- Time series
+- Statistical models
+- DSH payment prediction
+- Trend analysis
+- Early planning
+- Prediction models
+
+2. **Natural Language Processing and Text Analysis**:
+- Unstructured Text Analysis
+- Social media data
+- Term identification
+- Document clustering
+- Semantic similarity
+- Keyword extraction
+- Topic extraction
+- Text Similarity
+- NLP (Natural Language Processing)
+- Keyword extraction
+
+3. **Machine Learning for Healthcare Applications**:
+- Sepsis
+- Healthcare
+- Medical diagnosis
+- Wearable device
+- AI model
+- Early detection
+- Monitoring
+- Medical diagnosis
+- Illicit drug detection
+- Clinical text analysis
+
+4. **AI and Machine Learning Integration with Various Applications**:
+- Chatbot
+- Image recognition
+- Spoof detection
+- Remote monitoring
+- Custom hardware
+- Data extraction
+- Edge computing
+- Optimization
+- Sensor data analysis
+- AI model
+
+5. **AI Application in Data Analysis and Knowledge Management**:
+- CMS
+- Enterprise Portal
+- Process Efficiency Improvement
+- Knowledge Management
+- Model
+- Use Case
+- Application
+- Portal AI
+- Process Optimization
+- Workflow Integration
+
+6. **Natural Language Processing and Job Matching**:
+- Natural Language Processing
+- Job Matching
+- Keyword Extraction
+- Recommendation System
+- Text Analysis
+- Job Opportunities
+- AI Model
+- User Identification
+- Semantic Analysis
+- Job Posting Matching
+
+7. **AI for Predictive and Analytical Models**:
+- Forecasting model
+- Stock Market Prediction
+- Predictive analytics
+- Machine learning
+- ML algorithms
+- Predictions
+- Models
+- Predictive
+- Random forests
+- Predicting
+
+8. **AI in Environmental Analysis and Monitoring**:
+- Natural Language Processing (NLP)
+- Soil data
+- Ecological information
+- Environmental analysis
+- Big Data
+- Environmental analysis
+- AI model
+- Machine Learning
+- Soil health
+- Mapping
+
+9. **AI for Data Mining and Analytics**:
+- Automated detection
+- Data analytics
+- AI model
+- Machine learning
+- Data analysis
+- Data resources
+- Evidence
+- Science
+- Society
+- Research
+
+10. **AI Application in Risk Assessment and Decision-Making**:
+- Predictive Intelligence
+- Incident assignment
+- Quality Service Center
+- Short description analysis
+- Keyword identification
+- Incident assignment
+- Decision-making
+- Assignment group
+- Re-training
+- Production instance数据
+
+Please note that some keywords appeared in multiple categories as they are applicable to various fields and applications.
+Based on the provided keywords, here are the categorized groups by primary focus and application:
+
+1. **Artificial Intelligence and Machine Learning Models:**
+   - AI Model
+   - AI-assisted Guidance
+   - Automated PII Detection
+   - AI-driven experimentation
+   - AI model
+   - Custom machine learning model
+   - Transformer-based seq2seq model
+   - Random Forest Modeling
+   - Deep Learning
+   - Predictive Modeling
+   - Recurrent Neural Network (RNN)
+   - PredictMod
+
+2. **Document Analysis and Information Processing:**
+   - OCR
+   - Document scanning
+   - Document processing
+   - Document summarization
+   - Text Analytics
+   - Named Entity Recognition (NER)
+   - Unstructured information extraction
+   - Text analysis
+   - Document classifier
+   - Metadata compliance
+   - Text to Data Conversion
+
+3. **Healthcare and Medical Applications:**
+   - EHR data conversion
+   - Health assessments
+   - Predictive healthcare technology
+   - Patient speech analysis
+   - Clinical notes analysis
+   - Sentinel Common Data Model
+   - Disease risk
+   - Predications
+   - Precision medicine
+   - Disability determination
+   - Predicting hospitalizations
+
+4. **Environmental and Geospatial Analysis:**
+   - Remote sensing
+   - Geospatial data collection
+   - Geospatial prediction
+   - Landsat
+   - Sentinel
+   - Prediction accuracy
+   - Vegetation canopy cover
+   - Land cover
+   - Land use
+   - Temporal change classifications
+
+5. **Risk Detection, Security, and Safety:**
+   - Anomaly detection
+   - Safety
+   - Safety monitoring
+   - Safety limits
+   - Data aggregation
+   - Risk prediction
+   - Incident predictions
+   - Predictions
+   - Detection
+   - Fraud detection
+
+6. **Government and Compliance:**
+   - Data element validation
+   - Compliance
+   - Regulatory perspective
+   - Claims data integration
+   - Social network analysis
+   - Evidence management
+   - Sentiment Analysis
+   - Decision-making
+   - Sentiment detectoin
+   - Employee background check detection
+
+7. **Business, Industry, and Process Improvement:**
+   - Process Improvements
+   - Optimization
+   - Data augmentation
+   - Predictive Analytics
+   - Machine Translation
+   - Predictive maintenance
+   - Optimization
+   - Model Optimization
+   - Predictive Analysis
+   - Data Analysis
+
+8. **Mapping, Monitoring, and Detection:**
+   - Probabilistic forecasts
+   - Meteorological forecast
+   - Weather prediction
+   - Geospatial mapping
+   - Surveillance System
+   - Surveillance
+   - Event detection
+   - Continuous surveillance
+   - Detection
+   - Crisis detection
+
+9. **Science, Research, and Development:**
+   - Cosmological parameters estimation
+   - Particle physics
+   - Biomedical literature analysis
+   - Early detection
+   - Disease research
+   - Material science
+   - Quantum chemistry
+   - Medical research
+   - Synthetic data
+   - Toxicity assessments
+
+10. **Text Analysis, Classification, and Processing:**
+    - Natural Language Processing
+    - Keyword extraction
+    - Condition-based monitoring
+    - Data compilation
+    - Evidence identification
+    - Text extraction
+    - Text similarity analysis
+    - Text mining
+    - keyword generation
+    - Narrative detection
+Based on the provided keywords, the distinct categories for AI use cases are as follows:
+
+1. Simulation and Modeling:
+- High fidelity simulations
+- Chemically reacting flow
+- Combustion characteristics
+- Injector configurations
+- Aerodynamic characteristics
+- Atomic magnetometer
+- sUAS platform
+- Geophysics inversion
+
+2. Machine Learning and Data Analysis:
+- Stochastic modeling techniques
+- Reduced modeling
+- Machine learning
+- Statistical models
+- Active learning
+- Analysis
+- User feedback
+- Prioritize studies
+- Evidence evaluations
+
+3. Decision Support and Prediction:
+- Prioritize review
+- Administrative law judges
+- Decision-making assistance
+- Allowance prediction
+- Senior adjudicators
+- Referral system
+- Risk prediction
+- Failure prediction
+- Forecasting
+- Predictive models
+
+4. Image and Data Processing:
+- Image recognition
+- Image classification
+- Mobile phone
+- Disease detection
+- Skin disease
+- Keyword extraction
+- Specific use case
+- Information retrieval
+- Data aggregation
+- Data-processing pipelines
+
+5. Natural Language Processing and Text Analysis:
+- Natural Language Processing (NLP)
+- Text summarization
+- Comment analysis
+- Topics identification
+- Themes identification
+- Semantically similar
+- Regulatory
+- Toolset
+- Efficiency
+- Insights
+
+6. Healthcare and Medical Applications:
+- Disease detection
+- Drug properties classification
+- Drug safety
+- Drug efficacy
+- Dementia
+- EEG
+- Biomarkers
+- Medical countermeasures
+- Drug safety monitoring
+- Pandemic surge prediction
+
+7. Environmental Monitoring and Prediction:
+- O2 production
+- Resource management
+- Snow estimation
+- Water quality forecasting
+- Operational hydrologic models
+- Ecosystem stressors
+- Earth observations
+- Harmful algal blooms
+
+8. Detection and Identification:
+- Threat hunting
+- Anomaly detection
+- Adverse drug events
+- Safety evaluation
+- Fraud detection
+- Synthetic data generation
+- Contraband detection
+- Entity Resolution
+
+9. Scheduling and Optimization:
+- Operational point annotation software
+- Operational hydrologic models
+- Stochastic analysis
+- Path planning
+- Planning and scheduling
+- Optimization strategies
+- Field activities
+- Training data
+- Field guidance
+- Real-time operations
+
+10. Security and Risk Management:
+- Security Operations Center (SOC) analysts
+- Cybersecurity Protection System
+- Probabilistic modeling
+- Distribution grid
+- Connected responses
+- Vendor-agnostic
+- Scalable
+- Risk prediction
+- Plugged wells
+- Sensor network
+
+These categories cover a wide range of AI applications and use cases mentioned in the provided keywords.
+Based on the provided keywords, the categories for distinct focus and application of AI use cases are as follows:
+
+1. Natural Resources and Environmental Management:
+- Site characterization
+- Reservoir management
+- AI solution for emerging hazards
+- Geological characterization
+- Groundwater monitoring and management
+- Water resource management
+- Environmental monitoring
+- Carbon storage assessment
+- Wind energy optimization
+- Environmental modeling
+
+2. Healthcare and Clinical Decision Support:
+- Clinical Decision Support
+- Medication Safety
+- Chronic Disease Management
+- Adverse Drug Events Detection
+- Drug repurposing
+- Precision medicine
+- Patient-specific Recommendations
+- Healthcare pricing analysis
+- Predictive modeling for patient outcomes
+- Disease prediction and prevention
+
+3. Energy and Resource Optimization:
+- Data analysis for resource management
+- Energy storage
+- Smart grid optimization
+- Energy system modeling
+- Predictive maintenance for equipment
+- Energy efficiency analysis
+- Renewable energy forecasting
+- Energy infrastructure optimization
+- Mining resource optimization
+- Fuel consumption analysis
+
+4. Public Sector and Policy Analysis:
+- Policy analysis
+- Compliance monitoring
+- Tax gap estimation
+- Trade investigation
+- Automated reporting
+- Legal process optimization
+- Public inquiry response
+- Federal procurement data analysis
+- System optimization for operations
+- Oversight and decision-making support
+
+5. Materials Science and Industrial Technologies:
+- Material science optimization
+- Chemical process refinement
+- Manufacturing prediction
+- Industrial Size Burner Test Facility
+- Optical fiber sensors for high-temperature applications
+- Thermal management for high-grade materials
+- Industrial automation for production lines
+- Phenotype prediction for drug discovery
+- Semantic extraction for product development
+- Production cost optimization
+
+6. Text and Data Processing:
+- Data mining
+- Document processing
+- Text analysis
+- Natural Language Processing (NLP)
+- Information retrieval
+- Public health data analysis
+- Document workflow automation
+- Information categorization
+- Text clustering and organization
+- Knowledge extraction and keyword identification
+
+7. Security and Threat Detection:
+- Cyber threat identification
+- Anomaly detection
+- Suspicious activity monitoring
+- Illegal activity detection
+- Threat intelligence analysis
+- Public safety surveillance
+- Risk prevention and mitigation
+- Adaptive learning for threat assessment
+- Automated security monitoring
+- Threat actor behavior analysis
+Based on their primary focus and application, the list of AI use case keywords can be organized into the following categories:
+
+1. Industrial Applications:
+- Nonlinear Model Predictive Control (NMPC)
+- Dynamic Optimization
+- Adaptive Control
+- Thermal Management
+- Electrolyzer Interaction
+
+2. Control and Policy:
+- Control Policy Selection
+- Operating Policy
+- Multi-policy Approaches
+
+3. Performance Optimization:
+- Performance Optimization
+
+4. Predictive Analytics:
+- Predictive Analytics
+- Predict delivery date
+- Historical data
+- Binary predictions
+- On-time delivery
+- Inventory shortage
+- Proactive decision-making
+
+5. Healthcare and Medical Applications:
+- Medical record review
+- MA RADV audits
+- Mental health tracking
+- Diagnosis confirmation
+- Behavioral analysis
+- Personalized recommendations
+- Monitoring and support
+
+6. Natural Language Processing and Text Analysis:
+- NLP (Natural Language Processing)
+- OCR (Optical Character Recognition)
+- Keyword extraction
+- Text mining
+- Sentiment analysis
+- Topic modeling
+
+7. Biometric and Security Applications:
+- Liveness Detection
+- Face Recognition
+- Spoofing Detection
+- Identity Verification
+- Fraud Prevention
+
+8. AI Models and Algorithms:
+- Machine learning
+- Artificial intelligence
+- Deep learning
+- Machine-learned algorithm
+- ML (Machine Learning)
+- Neural network
+- Generative Adversarial Network (GAN)
+- Decision Tree
+- Bayesian optimization
+- Deep Neural Network (DNN)
+- Random Forest (RF)
+- Backpropagation Neural Network (BPNN)
+- XGBoost
+- Supervised Learning
+
+9. Environmental Monitoring and Management:
+- Satellite
+- Geo-data science methods
+- Geospatial information science
+- Real-time pipeline monitoring
+- Methane emissions reduction
+- H2 transport
+- Natural gas pipelines
+- Key parameters
+- Environmental parameters
+- Vegetation type prediction
+- Marine food webs
+- Coral reefs detection
+- Capstone projects
+
+10. Anomaly Detection and Cybersecurity:
+- Machine-learned algorithm
+- Road condition prediction
+- Subfreezing detection
+- Weather forecasting
+- Road safety
+- Threat Focused Reverse Engineering (TFRE)
+- Malware analysis
+- Deep learning techniques
+- Cyber threat intelligence
+- Threat hunting
+- Cybersecurity
+- Security Operations Center (SOC) analysts
+
+11. Data Handling and Data Analysis:
+- Data extraction
+- Automated transcription
+- Video/audio transcription
+- Whisper
+- Statistical analysis
+- Data analytics
+- Data extraction
+- Synthetic dataset
+- Image processing
+- Data analytics
+- Statistical methodology
+- Data dimensionality
+
+12. Customer Experience and Support:
+- Chatbot
+- Customer support
+- Automation
+- Proactive customer services
+- Live chat
+- Customer Experience Analytics
+- Requesting agent
+
+13. Research and Data Modeling:
+- Machine learning
+- Predictive scenarios
+- Application-specific model
+- Machine learning-based systems
+- Data processing
+- Prediction improvement
+
+14. Legal and Document Review:
+- Predictive modeling
+- Document review
+- Litigation
+- FOIA
+- Document analysis
+- Legal text review
+- FOQUS support
+
+15. Energy and Power Systems:
+- GPA
+- Geologic analysis
+- Machine learning models
+- CO2 permeability prediction
+- CO2/N2 selectivity prediction
+- Polymer datasets generation
+- Inverse design
+- Targeted properties extraction
+- Polymer properties optimization
+
+This categorization helps to group the keywords based on similar industry applications and use cases for AI technologies.
+Healthcare/AI in Medicine:
+- Adverse events detection
+- Drug safety monitoring
+- Women's health surveillance
+- Health data analysis
+- Precision control
+- Medication use
+
+AI in Physics:
+- Fermilab accelerator complex
+- High-energy physics
+- Prediction algorithms
+- Real-time
+- Optimization
+- Data analysis
+
+Privacy and Security:
+- NLP solution
+- PII redaction
+- Text data
+- Privacy protection
+- Data security
+- Free text data
+
+Environmental Analysis:
+- Groundwater quality prediction
+- Salinity prediction
+- Nutrient prediction
+- Water availability assessment
+- Aquatic weeds
+- Environmental monitoring
+
+Law Enforcement and Security:
+- Response propensity scores
+- AI model
+- Prediction
+- Statistical models
+- Tweets
+- Violent events
+
+Analytics and Data Mining:
+- Fraud detection
+- Waste detection
+- Abuse detection
+- Machine learning
+- Data mining
+- Random forest techniques
+
+Natural Language Processing and Information Extraction:
+- Text mining
+- Natural language processing
+- Keyword extraction
+- Information extraction
+- Textual data analysis
+
+Energy and Sustainability:
+- Energy reduction
+- Cooling system optimization
+- Energy efficiency
+- Sustainable technology
+- Chilled water production
+- Smart cooling solution
+
+Research and Development:
+- Platform development
+- Geo-data science
+- Scientific computing
+- Visualization
+- DOE OGFL data
+- Data mining
