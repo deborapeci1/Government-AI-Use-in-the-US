@@ -26,9 +26,16 @@ print(column_info.transpose())
 if 'Summary' not in df.columns:
     raise ValueError("Summary column not found in the CSV file")
 
-# Set the API key for the OpenAI service to authenticate API requests
+# Function to load the API key from a file
+def load_api_key():
+    with open('api-key.txt', 'r') as file:
+        return file.readline().strip()
 
-openai.api_key = "sk-proj-XXfuVD0krWVcxJBNorltT3BlbkFJXGrYbcxhcjldnmAo79hp"
+# Load the API key from the secure file
+api_key = load_api_key()
+
+# Set the API key for the OpenAI service
+openai.api_key = api_key
 
 def summarize_text(text):
     # Construct a prompt for the AI to summarize the text in exactly three words
